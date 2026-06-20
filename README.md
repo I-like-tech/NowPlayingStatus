@@ -1,1 +1,1 @@
-# NowPlayingStatus
+# NowPlayingMacStatus
